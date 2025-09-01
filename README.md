@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🎓 PhD in Biochemistry in Metabolomics and Multivariate Data Analysis.
+- 🎓 PhD in Biochemistry focused on Metabolomics and Data Analysis.
 - 🌱 I’m currently learning advanced statistical methods and machine learning techniques for metabolomics data analysis.
 - 👯 I’m open to collaborate on projects involving metabolomics data processing, statistical analysis, and software development.
 - 📫 How to reach me: aleks.delta2013@gmail.com
@@ -24,18 +24,10 @@
 ## Software development
 - Python, tkinter, plotly, matplotlib, pandas, numpy, R, ggplot2, git, JSON handling, JavaScript, Adobe API, etc  
 
-## 🌟 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreMoProduction&layout=compact&theme=radical)
-
-## 📈 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CreMoProduction&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=CreMoProduction&theme=radical)
-
+##  
+| Top Languages | GitHub Streak |
+| ------------- |:-------------:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreMoProduction&layout=compact&theme=radical)      | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CreMoProduction&theme=radical)     |
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
