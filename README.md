@@ -6,7 +6,7 @@
 - I’m currently learning advanced statistical methods and machine learning techniques for metabolomics data analysis.
 - I’m open to collaborate on projects involving metabolomics data processing, statistical analysis, and software development.
 
-## Multivariate Data Analysis (MVDA)
+## Skills
 - Multivariate techniques (PCA, SVD, SVM, kNN, PLS, OPLS-DA, HCA, etc)
 - Univariate statistics
 - Resolving overlapping signals (MCR-ALS with initialization, ambiguity optimization, model rank determination)
