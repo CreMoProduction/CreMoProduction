@@ -1,36 +1,20 @@
 # 👋 Hi, I'm Alex Ilchenko!
 
-## 🚀 About Me
+## About Me
 
-- 🎓 PhD in Biochemistry focused on Metabolomics and Data Analysis.
-- 🌱 I’m currently learning advanced statistical methods and machine learning techniques for metabolomics data analysis.
-- 👯 I’m open to collaborate on projects involving metabolomics data processing, statistical analysis, and software development.
-- 📫 How to reach me: aleks.delta2013@gmail.com
-
-## 🛠️ Technologies & Tools
-
+- PhD in chemistry focused on Metabolomics and Data Science.
+- I’m currently learning advanced statistical methods and machine learning techniques for metabolomics data analysis.
+- I’m open to collaborate on projects involving metabolomics data processing, statistical analysis, and software development.
 
 ## Multivariate Data Analysis (MVDA)
-- Multivariate techniques (PCA, PLS, HCA, Discriminant Analysis)
-- Data reduction and dimensionality reduction for large-scale datasets (e.g., GC/LC-MS/MS)
+- Multivariate techniques (PCA, SVD, SVM, kNN, PLS, OPLS-DA, HCA, etc)
+- Univariate statistics
+- Resolving overlapping signals (MCR-ALS with initialization, ambiguity optimization, model rank determination)
+- Data treatment (scaling, normalization, imputation, transforming, etc)
+- Data dimensionality reduction for megavariate datasets
 - Interpreting multivariate results to explain biological variance, identify biomarkers, and predict outcomes
-- Using advanced tools (SIMCA, R, Python) for multivariate data processing and visualization
-
-## Data Processing and Interpretation
-- Data preprocessing (normalization, scaling, transformation)
-- Integrating univariate and multivariate approaches for comprehensive data analysis
 - Reporting and presenting complex analysis results through scientific reports, publications, and visual dashboards
 
-## Software development
+## Tools
 - Python, tkinter, plotly, matplotlib, pandas, numpy, R, ggplot2, git, JSON handling, JavaScript, Adobe API, etc  
 
-##  
-| Top Languages | GitHub Streak |
-| ------------- |:-------------:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CreMoProduction&layout=compact&theme=radical)      | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CreMoProduction&theme=radical)     |
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
-
-<!--
-**CreMoProduction/CreMoProduction** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
